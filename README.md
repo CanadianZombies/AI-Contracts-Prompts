@@ -85,11 +85,19 @@ More contracts and specialized prompts (testing, security, frontend, backend, De
 
 ### Example Workflow (Recommended)
 
-    1. Paste → CHATGPT - Programming Prompt.txt   (as first message)
+    1. Paste → CHATGPT - preservation contract.txt   (as first message — establish rules)
+    
+    2. Paste → CHATGPT - Programming Prompt.txt   (as second message, adjust the prompt to fit your project)
+        
+        a. The prompt tells the AI to refer back to my github for the contract itself. You can remove that element if you use the contract first.
 
-    2. Paste → CHATGPT - preservation contract.txt   (as second message — reinforces rules)
+        b. The prompt needs to be adjusted for your individual project. Adjust accordingly.
 
-    3. Then ask your question:
+        c. AI is your friend, but it is not perfect, double check the responses it gives you even with the contract and prompt establishing guidelines and rails.
+
+        d. Follow me on twitch (twitch.tv/simmydizzle), because why not.
+
+    3. Then ask your question / state your requirement:
 
         ```
         Build a clean, type-safe React hook for handling async form submissions with Zod validation, proper error states, and loading indicators. Follow modern best practices (2025+).
