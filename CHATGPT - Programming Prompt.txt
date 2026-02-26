@@ -1,0 +1,21 @@
+Here is my project.
+
+Before changing anything:
+1. Enumerate all existing capabilities.
+2. Identify all locked interfaces and schemas.
+3. Wait for my approval.
+
+Constraints:
+- No existing capability may be removed or altered.
+- JSON inputs must remain backward compatible.
+- Unknown fields must be preserved.
+- Changes must be additive only.
+
+Goal:
+- This system currently uses email to create wordpress posts. Replace emailing with wordpress REST api to post content, Create and Update hub pages, update evergreen content.
+- Ensure wordpress rest-api (OAuth) login information loads from JSON file.
+- Add a cache to store pages and posts created, and safety check if page/post already exists, change from creating page to updating in the event it already exists.
+- Ensure full rest implementation without losing the original intended capabilities (minus the change from email to rest).
+
+After implementation:
+Provide a capability diff and confirm no regressions.
