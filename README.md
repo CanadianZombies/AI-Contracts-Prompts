@@ -75,6 +75,8 @@ Think of them as **"prompt engineering safety rails"** for coding sessions.
 
 More contracts and specialized prompts (testing, security, frontend, backend, DevOps, etc.) coming soon — many prototyped live on stream.
 
+When using this, make sure you update the Programming Prompt, it has example data in it that needs to be removed before you can move on to using it.
+
 ---
 
 ## 🚀 Quick Start / Usage
