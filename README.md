@@ -20,7 +20,6 @@ Structured system prompts, behavioral contracts, and preservation rules designed
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CanadianZombies&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanadianZombies&show_icons=true&theme=dark&hide_border=true)
 
 </td>
 <td align="center" width="50%">
